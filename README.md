@@ -1,5 +1,10 @@
 https://davegonzalez.github.io/feed/
 
+
+Added :
+https://www.jackfranklin.co.uk/feed.xml
+https://www.jackfranklin.co.uk/
+
 # About
 
 This is repository hosts the UI and content of an RSS feed reader.
