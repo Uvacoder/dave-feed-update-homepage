@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://davegonzalez.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-04T14:43:10.639Z</updated>
+    <updated>2021-11-04T14:50:00.630Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://davegonzalez.github.io/feed/index.html"/>
     <link rel="self" href="https://davegonzalez.github.io/feed/feed.atom"/>
@@ -10,10 +10,20 @@
         <title type="html"><![CDATA[Facebook’s metaverse shift smacks of desperation]]></title>
         <id>https://www.cjr.org/the_media_today/facebooks-metaverse-shift-smacks-of-desperation.php</id>
         <link href="https://www.cjr.org/the_media_today/facebooks-metaverse-shift-smacks-of-desperation.php"/>
-        <updated>2021-11-04T14:43:00.828Z</updated>
+        <updated>2021-11-04T14:49:48.914Z</updated>
         <summary type="html"><![CDATA[Two weeks ago, Alex Heath of The Verge reported that the company then known as Facebook was planning to rename itself. An anonymous source told Heath that the new name was intended to direct attention away from the company’s existing services (including WhatsApp, Instagram, and the social network itself) and toward its embrace of “the […]]]></summary>
         <author>
             <name>Columbia Journalism Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shudder Finds Holiday Horror Inside ‘The Advent Calendar’ This December [Trailer]]]></title>
+        <id>https://bloody-disgusting.com/?p=3690542</id>
+        <link href="https://bloody-disgusting.com/movie/3690542/shudder-finds-holiday-horror-inside-advent-calendar-december-trailer/"/>
+        <updated>2021-11-04T14:49:36.000Z</updated>
+        <summary type="html"><![CDATA[Shudder is opening up their very own Advent Calendar this holiday season, announcing that the brand new original holiday horror movie will be available for streaming on December 9. The streaming service describes writer/director Patrick Ridremont’s film as an “ornate and elegant French horror fantasy.” Shudder further teases, “Combining Faustian themes and allusions with European […]]]></summary>
+        <author>
+            <name>John Squires</name>
         </author>
     </entry>
     <entry>
@@ -96,6 +106,28 @@ The video culminates in a grand battle against a giant, multiarmed boss monster,
 Elden Ring is coming to PlayStation 4, PlayStation 5, Windows PC, Xbox One, and Xbox Series X on Feb. 25, 2022, after a brief delay. The game was originally announced in June 2019 at E3. The fantasy action-role-playing game is a collaboration between FromSoftware and A Song of Ice and Fire author George R.R. Martin, and sends players to the Lands Between as a Tarnished to restore the titular Elden Ring and become the region’s new lord. For more, check out Polygon’s Elden Ring hands-off preview from August.]]></summary>
         <author>
             <name>Polygon -  PC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C’mon Newcomer: Nobuo Uematsu’s “Bombing Mission”]]></title>
+        <id>144768</id>
+        <link href="https://daily.bandcamp.com/resonance/nobuo-uematsu-bombing-mission-essay"/>
+        <updated>2021-11-04T13:46:39.000Z</updated>
+        <summary type="html"><![CDATA[The music intensified, the stakes were high, and I made a decision to change the direction of my career and my life.
+Read full story on the Bandcamp Daily.]]></summary>
+        <author>
+            <name>Amy Moss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C’mon Newcomer: Nobuo Uematsu’s “Bombing Mission”]]></title>
+        <id>144768</id>
+        <link href="https://daily.bandcamp.com/resonance/nobuo-uematsu-bombing-mission-essay"/>
+        <updated>2021-11-04T13:46:39.000Z</updated>
+        <summary type="html"><![CDATA[The music intensified, the stakes were high, and I made a decision to change the direction of my career and my life.
+Read full story on the Bandcamp Daily.]]></summary>
+        <author>
+            <name>Davi Braid</name>
         </author>
     </entry>
     <entry>
