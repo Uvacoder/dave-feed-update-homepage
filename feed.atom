@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://davegonzalez.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-04T14:32:34.788Z</updated>
+    <updated>2021-11-04T14:43:10.639Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://davegonzalez.github.io/feed/index.html"/>
     <link rel="self" href="https://davegonzalez.github.io/feed/feed.atom"/>
@@ -10,10 +10,22 @@
         <title type="html"><![CDATA[Facebook’s metaverse shift smacks of desperation]]></title>
         <id>https://www.cjr.org/the_media_today/facebooks-metaverse-shift-smacks-of-desperation.php</id>
         <link href="https://www.cjr.org/the_media_today/facebooks-metaverse-shift-smacks-of-desperation.php"/>
-        <updated>2021-11-04T14:32:23.033Z</updated>
+        <updated>2021-11-04T14:43:00.828Z</updated>
         <summary type="html"><![CDATA[Two weeks ago, Alex Heath of The Verge reported that the company then known as Facebook was planning to rename itself. An anonymous source told Heath that the new name was intended to direct attention away from the company’s existing services (including WhatsApp, Instagram, and the social network itself) and toward its embrace of “the […]]]></summary>
         <author>
             <name>Columbia Journalism Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time Lapse of Carnivorous Plants and Their Prey Preparing for Battle]]></title>
+        <id>https://kottke.org/21/11/time-lapse-of-carnivorous-plants-and-their-prey-preparing-for-battle</id>
+        <link href="https://kottke.org/21/11/time-lapse-of-carnivorous-plants-and-their-prey-preparing-for-battle"/>
+        <updated>2021-11-04T14:34:03.000Z</updated>
+        <summary type="html"><![CDATA[Backed by a soundtrack from Alexis Dehimi that sounds like it’s from a Christopher Nolan or Denis Villeneuve movie, Thomas Blanchard’s short film provides a glimpse into the tiny, dynamic world of plants and insects: “A butterfly in the process of being born, plants in the process of growing, Carnivorous plants in the process of hunting.”
+It’s all very dramatic, but never fear, a tender disclaimer in the video’s description: “All insects captured by the plants have been released.” (via colossal)
+Tags: Alexis Dehimi   Thomas Blanchard   time lapse   video]]></summary>
+        <author>
+            <name>kottke.org</name>
         </author>
     </entry>
     <entry>
@@ -73,13 +85,13 @@ Make sure to follow us on twitter @Flyperbole and  @Kurt_BSH. Also, follow @BSH_
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Watch 15 minutes of new Elden Ring gameplay]]></title>
+        <title type="html"><![CDATA[Watch 19 minutes of new Elden Ring gameplay]]></title>
         <id>https://www.polygon.com/22763188/elden-ring-gameplay-reveal-watch-from-software</id>
         <link href="https://www.polygon.com/22763188/elden-ring-gameplay-reveal-watch-from-software"/>
         <updated>2021-11-04T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[FromSoftware shows off its next big action-RPG ahead of beta test
  FromSoftware and Bandai Namco showed off all-new gameplay from Elden Ring, next year’s big, open-world action role-playing game, in a video released Thursday. The new gameplay footage comes ahead of a playable network test for Elden Ring that will run Nov. 12-14.
-The 15-minute preview of Elden Ring showcases the variety of environments and gameplay that players can expect. Developer FromSoftware highlights features that are new to its brand of action-RPG, including traversing a vast map on horseback, what appear to be random encounters (with a giant dragon, no less), and an actual map interface. Viewers also get a look at multiple styles of gameplay, including hand-to-hand sword-and-shield combat, magic, stealth, and the option to summon other players (and even AI-controlled companions called spirits) in battle. The player also visits what FromSoftware is referring to as a “Legacy Dungeon” called Stormveil Castle, a challenging area that will offer multiple paths to victory and great rewards. There’s even a Pot Boy encounter!
+The 19-minute preview of Elden Ring showcases the variety of environments and gameplay that players can expect. Developer FromSoftware highlights features that are new to its brand of action-RPG, including traversing a vast map on horseback, what appear to be random encounters (with a giant dragon, no less), and an actual map interface. Viewers also get a look at multiple styles of gameplay, including hand-to-hand sword-and-shield combat, magic, stealth, and the option to summon other players (and even AI-controlled companions called spirits) in battle. The player also visits what FromSoftware is referring to as a “Legacy Dungeon” called Stormveil Castle, a challenging area that will offer multiple paths to victory and great rewards. There’s even a Pot Boy encounter!
 The video culminates in a grand battle against a giant, multiarmed boss monster, so the spoiler-averse may want to skip the final two minutes.
 Elden Ring is coming to PlayStation 4, PlayStation 5, Windows PC, Xbox One, and Xbox Series X on Feb. 25, 2022, after a brief delay. The game was originally announced in June 2019 at E3. The fantasy action-role-playing game is a collaboration between FromSoftware and A Song of Ice and Fire author George R.R. Martin, and sends players to the Lands Between as a Tarnished to restore the titular Elden Ring and become the region’s new lord. For more, check out Polygon’s Elden Ring hands-off preview from August.]]></summary>
         <author>
