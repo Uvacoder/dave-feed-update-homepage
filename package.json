@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/osmoscraft/osmosfeed-template/issues"
   },
-  "homepage": "https://github.com/osmoscraft/osmosfeed-template#readme",
+  "homepage": "https://uvacoder.github.io/dave-feed-update-homepage/",
   "dependencies": {
     "@osmoscraft/osmosfeed": "^1.2.2"
   }
