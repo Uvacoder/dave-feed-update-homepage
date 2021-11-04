@@ -8,7 +8,7 @@ https://www.jackfranklin.co.uk/
 added:11/4
 - https://daily.dev/blog/rss.xml
 deleted
-
+-  - href: http://feeds.arstechnica.com/arstechnica/index
 -
 # About
 
