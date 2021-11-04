@@ -5,6 +5,11 @@ Added :
 https://www.jackfranklin.co.uk/feed.xml
 https://www.jackfranklin.co.uk/
 
+added:11/4
+- https://daily.dev/blog/rss.xml
+deleted
+
+-
 # About
 
 This is repository hosts the UI and content of an RSS feed reader.
