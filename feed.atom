@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://davegonzalez.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-04T14:50:00.630Z</updated>
+    <updated>2021-11-05T00:56:52.459Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://davegonzalez.github.io/feed/index.html"/>
     <link rel="self" href="https://davegonzalez.github.io/feed/feed.atom"/>
@@ -10,10 +10,687 @@
         <title type="html"><![CDATA[Facebook’s metaverse shift smacks of desperation]]></title>
         <id>https://www.cjr.org/the_media_today/facebooks-metaverse-shift-smacks-of-desperation.php</id>
         <link href="https://www.cjr.org/the_media_today/facebooks-metaverse-shift-smacks-of-desperation.php"/>
-        <updated>2021-11-04T14:49:48.914Z</updated>
+        <updated>2021-11-05T00:56:25.836Z</updated>
         <summary type="html"><![CDATA[Two weeks ago, Alex Heath of The Verge reported that the company then known as Facebook was planning to rename itself. An anonymous source told Heath that the new name was intended to direct attention away from the company’s existing services (including WhatsApp, Instagram, and the social network itself) and toward its embrace of “the […]]]></summary>
         <author>
             <name>Columbia Journalism Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A year after the election, America has turned the news off]]></title>
+        <id>https://www.cjr.org/analysis/a-year-after-the-election-america-has-turned-the-news-off.php</id>
+        <link href="https://www.cjr.org/analysis/a-year-after-the-election-america-has-turned-the-news-off.php"/>
+        <updated>2021-11-05T00:56:25.808Z</updated>
+        <summary type="html"><![CDATA[After a year of voracious consumption fueled by the election, post-election violence and pandemic coverage, Americans have turned off the news—on television, online and in print. News outlets are used to declines following elections—with the exception of the 2016 election, a news spectacle which electrified one half of America, and petrified the other, focusing both […]]]></summary>
+        <author>
+            <name>Columbia Journalism Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Instagram and Twitter buried the hatchet]]></title>
+        <id>https://www.platformer.news/p/how-instagram-and-twitter-buried</id>
+        <link href="https://www.platformer.news/p/how-instagram-and-twitter-buried"/>
+        <updated>2021-11-05T00:00:35.000Z</updated>
+        <summary type="html"><![CDATA[A 9-year feud ends after a backyard pizza night]]></summary>
+        <author>
+            <name>Casey Newton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘The Booming Underground Market for Bots That Steal Your 2FA Codes’]]></title>
+        <id>https://www.vice.com/en/article/y3vz5k/booming-underground-market-bots-2fa-otp-paypal-amazon-bank-apple-venmo</id>
+        <link href="https://www.vice.com/en/article/y3vz5k/booming-underground-market-bots-2fa-otp-paypal-amazon-bank-apple-venmo"/>
+        <updated>2021-11-04T23:57:16.000Z</updated>
+        <summary type="html"><![CDATA[Fascinating report from Joseph Cox for Motherboard:
+The call came from PayPal’s fraud prevention system. Someone had
+tried to use my PayPal account to spend $58.82, according to the
+automated voice on the line. PayPal needed to verify my identity
+to block the transfer.
+“In order to secure your account, please enter the code we have
+sent your mobile device now,” the voice said. PayPal sometimes
+texts users a code in order to protect their account. After
+entering a string of six digits, the voice said, “Thank you, your
+account has been secured and this request has been blocked.”
+“Don’t worry if any payment has been charged to your account: we
+will refund it within 24 to 48 hours. Your reference ID is
+1549926. You may now hang up,” the voice said.
+But this call was actually from a hacker. The…]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Card Promo Offers $10 Daily Cash for Adding New Family Members]]></title>
+        <id>https://www.macrumors.com/2021/11/04/apple-card-family-promotion/</id>
+        <link href="https://www.macrumors.com/2021/11/04/apple-card-family-promotion/"/>
+        <updated>2021-11-04T23:51:28.000Z</updated>
+        <summary type="html"><![CDATA[Apple today sent out an email to Apple Card owners, encouraging them to sign up a family member using the Apple Card Family feature.
+
+
+
+
+
+New users who join an ‌Apple Card‌ holder's account by November 30, 2021 can receive $10 in Daily Cash after making their first purchase with ‌Apple Card‌ within 30 days of signing up.
+
+
+
+Introduced earlier this year, ‌Apple Card‌ Family is designed to allow up to five family members to be added to an ‌Apple Card‌ user's account. ‌Apple Card‌ Family permits one co-owner, who is considered a joint card holder. The co-owner and the main ‌Apple Card‌ user can build credit together, manage the ‌Apple Card‌ account together, and share a combined credit limit.
+
+
+
+Children and young adults over the age of 13 can also be added to ‌Apple Card‌ as participants, allowing them to use the ‌Apple Card‌ holder's credit to make purchases. ‌Apple Card‌ owners can set a spending limit for participants, allowing kids to learn about credit without overspending.
+
+
+
+More about ‌Apple Card‌ Family is available on the Apple Card website, and new participants can be added on the iPhone by the account holder.
+Tag: Apple Card
+This article, "Apple Card Promo Offers $10 Daily Cash for Adding New Family Members" first appeared on MacRumors.com
+Discuss this article in our forums]]></summary>
+        <author>
+            <name>Juli Clover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Cleveland Guardians vs. The Cleveland Guardians]]></title>
+        <id>https://news.bloomberglaw.com/ip-law/roller-derby-team-ups-heat-in-cleveland-guardians-trademark-fight</id>
+        <link href="https://news.bloomberglaw.com/ip-law/roller-derby-team-ups-heat-in-cleveland-guardians-trademark-fight"/>
+        <updated>2021-11-04T23:23:30.000Z</updated>
+        <summary type="html"><![CDATA[Remember a few months back when the Cleveland Indians announced their new name for next season? Well, it turns out, there’s an existing Cleveland Guardians — a roller derby team — and they still haven’t worked out a deal. Here’s Kyle Jahner, reporting last week for Bloomberg Law:
+The baseball team allegedly reached out to the roller derby team
+in June, more than a month before its announcement of the
+Guardians re-brand, according to the complaint. The derby team
+asked the team to make an offer, and the team offered “likely no
+more than fifteen minutes of annual team revenue,” according to
+the lawsuit.
+The lawsuit estimated $290 million annual revenue for the Indians,
+implying an offer of about $8,300. The derby team alleged that it
+rejected that offer and countered, but the baseball team didn’t
+respond.
+This, of course, follows upon Facebook’s potential legal problems with existing companies named “Meta”. Why cheap out with a lowball offer? It makes no sense. It’s certainly possible that the roller derby team’s lawyer is being hyperbolic regarding “likely no more than 15 minutes of annual team revenue”, but whatever the baseball team’s offer, they could have made both sides happy by now. And if the offer really was in the ballpark of $8,300 — sheesh. That’s just stupid.
+ ★]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Members of the Public Say Their Testimony Was Distorted in Senate Redistricting Process]]></title>
+        <id>https://indyweek.com/news/northcarolina/members-of-the-public-say-testimony-was-distorted-in-senate-redistricting-process/</id>
+        <link href="https://indyweek.com/news/northcarolina/members-of-the-public-say-testimony-was-distorted-in-senate-redistricting-process/"/>
+        <updated>2021-11-04T22:43:48.000Z</updated>
+        <summary type="html"><![CDATA[“Cherry-picking public comments in bad faith to support gerrymandered maps further undermines democracy."]]></summary>
+        <author>
+            <name>Lynn Bonner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Five Games Worth Firing Up to Show Off Your New MacBook Pro]]></title>
+        <id>https://www.macrumors.com/2021/11/04/five-high-performing-games-macbook-pro/</id>
+        <link href="https://www.macrumors.com/2021/11/04/five-high-performing-games-macbook-pro/"/>
+        <updated>2021-11-04T21:31:34.000Z</updated>
+        <summary type="html"><![CDATA[If you're the proud owner of a new MacBook Pro, all things considered, gaming probably wasn't at the top of your priority list when you made the expensive purchase. Even so, when you're not doing resource-hungry work on your new high-end Mac, you can still have some fun with all that power under the hood. Granted, Macs aren't revered for their triple-A games catalog, but there are some popular titles worth firing up on your new machine, and you might just be surprised at how well they play. 
+
+
+
+
+
+The following titles offer a taster of the gaming performance that Apple's latest M1 Pro and M1 Max chips can achieve, in some cases running code that isn't even optimized for Apple silicon. And with a little bit of luck, these impressive results might excite games developers and publishers …]]></summary>
+        <author>
+            <name>Tim Hardwick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AT&T and Verizon Delay 5G Expansion to Address Aircraft Interference Concerns]]></title>
+        <id>https://www.macrumors.com/2021/11/04/att-verizon-5g-c-band-delayed/</id>
+        <link href="https://www.macrumors.com/2021/11/04/att-verizon-5g-c-band-delayed/"/>
+        <updated>2021-11-04T20:50:24.000Z</updated>
+        <summary type="html"><![CDATA[AT&T and Verizon are delaying the rollout of a new 5G band in order to address concerns about interference with aircraft safety systems, reports The Wall Street Journal.
+
+
+
+
+
+The two companies were set to launch C-Band spectrum on December 5. The C-band covers radio frequencies between 3.7GHz and 4.2GHz, and it is key for the expansion of 5G networks. AT&T and Verizon are now working with the Federal Aviation Administration to ensure there will be no interference, delaying the 5G deployment until January 5.
+
+
+
+On Tuesday, the Federal Aviation Administration issued a warning [PDF] about potential 5G interference with radar altimeters, technology used measure a plane's distance from the ground. In the document, the FAA confirms that there have not been "proven reports" about equipm…]]></summary>
+        <author>
+            <name>Juli Clover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The ‘Halloween Kills’ Novelization Drops a Very Unexpected “Cult of Thorn” Connection]]></title>
+        <id>https://bloody-disgusting.com/?p=3690669</id>
+        <link href="https://bloody-disgusting.com/books/3690669/halloween-kills-novelization-drops-unexpected-cult-thorn-connection/"/>
+        <updated>2021-11-04T20:20:41.000Z</updated>
+        <summary type="html"><![CDATA[At the time of writing this article I am 200 pages into writer Tim Waggoner‘s Halloween Kills, the official novelization of David Gordon Green’s sequel. As Waggoner recently explained in an interview with our own Jason Jenkins, “I was able to write it pretty much from the script,” which is usually how these sorts of […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Charlotte-Based Publication CLTure Comes to Transfer Food Hall for a Day of Food, Music, and Art]]></title>
+        <id>https://indyweek.com/culture/etc/clture-comes-to-transfer-food-hall/</id>
+        <link href="https://indyweek.com/culture/etc/clture-comes-to-transfer-food-hall/"/>
+        <updated>2021-11-04T20:04:56.000Z</updated>
+        <summary type="html"><![CDATA[An event solution for the weekends bookending Thanksgiving.]]></summary>
+        <author>
+            <name>INDY Week</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘The Deep House’: Alexandre Bustillo and Julien Maury On the Challenges of Filming a Haunted House Movie Underwater [Interview]]]></title>
+        <id>https://bloody-disgusting.com/?p=3690553</id>
+        <link href="https://bloody-disgusting.com/interviews/3690553/deep-house-alexandre-bustillo-julien-maury-dangers-underwater-ghosts-permanent-link-horror/"/>
+        <updated>2021-11-04T19:50:12.000Z</updated>
+        <summary type="html"><![CDATA[The latest by French filmmaking duo Julien Maury and Alexandre Bustillo (Inside, Livide, Among the Living) might be their most ambitious effort yet. The aquatic haunted house movie The Deep House (read my review here) sees two divers looking to draw in big numbers for their social channels but instead find themselves trapped in an underwater nightmare. Ahead of the […]]]></summary>
+        <author>
+            <name>Meagan Navarro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Starting a Cannabis Business Is So Hard]]></title>
+        <id>https://kottke.org/21/11/why-starting-a-cannabis-business-is-so-hard</id>
+        <link href="https://kottke.org/21/11/why-starting-a-cannabis-business-is-so-hard"/>
+        <updated>2021-11-04T19:26:53.000Z</updated>
+        <summary type="html"><![CDATA[This video provides a good overview of the difficulty involved in starting a business that grows, sells, or distributes cannabis products, which can include money, federal illegality, state regulations, and structural racism.
+Jeannette: So you really got to get your business funded from your personal wealth or from your network wealth.
+Nancy: Those situations begin to favor people who’ve traditionally had good access to capital.
+Jeremy: And oftentimes that correlate with being white.
+Adriana: It is very white male-dominant. And there’s no reason that that is what it should be.
+Narrator: Only 2% of cannabis entrepreneurs are Black. Yet Black Americans were most affected by marijuana’s illegal status in the past.
+Jeremy: There is kind of a clear throughline from the war on drugs. According to the ACLU, Black people are four times as likely than whites to get arrested for cannabis use, despite using at very similar rates across age groups, across different states.
+
+
+See also A Post-Legalization Cannabis Reading List.
+Tags: business   drugs   racism   video]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Triangle First: Getting Carried Away With Faang Street's Very First "Swan Song"]]></title>
+        <id>https://indyweek.com/music/features/triangle-first/</id>
+        <link href="https://indyweek.com/music/features/triangle-first/"/>
+        <updated>2021-11-04T19:19:45.000Z</updated>
+        <summary type="html"><![CDATA["You've gotta be careful when you're out there."]]></summary>
+        <author>
+            <name>Sarah Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 13 Screen Replacements Can Break Face ID, a Repair Restriction iFixit Calls 'Completely Unprecedented']]></title>
+        <id>https://www.macrumors.com/2021/11/04/iphone-13-display-replacement-breaks-face-id/</id>
+        <link href="https://www.macrumors.com/2021/11/04/iphone-13-display-replacement-breaks-face-id/"/>
+        <updated>2021-11-04T19:07:00.000Z</updated>
+        <summary type="html"><![CDATA[An inability to replace the iPhone 13's display without breaking Face ID could have a major impact on companies that offer iPhone repairs, iFixit said today in an article advocating for Right to Repair laws.
+
+
+
+
+
+iFixit first pointed out this repair issue in its iPhone 13 Pro teardown, and has confirmed it with multiple tests. Replacing the display of the ‌iPhone 13‌ renders Face ID non-functional, so at-home repairs are not an option. Swapping an ‌iPhone 13‌'s display with a display from a new ‌iPhone 13‌ results in an error message that says "Unable to activate Face ID on this ‌iPhone‌."
+
+
+
+An ‌iPhone‌ display repair, which could previously be done with hand-held tools, now requires a microscope and microsoldering tools or access to Apple's Independent Repair Provider Program, …]]></summary>
+        <author>
+            <name>Juli Clover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Second Season of Shudder’s “Creepshow” Comes to Blu-ray in December With Two Bonus Specials]]></title>
+        <id>https://bloody-disgusting.com/?p=3690649</id>
+        <link href="https://bloody-disgusting.com/home-video/3690649/second-season-shudders-creepshow-comes-blu-ray-december-two-bonus-specials/"/>
+        <updated>2021-11-04T18:56:02.000Z</updated>
+        <summary type="html"><![CDATA[On the way from RLJE Films, the second season of Shudder‘s horror anthology series “Creepshow” is coming to DVD and Blu-ray, with the release date set for December 7, 2021. The five-episode season of showrunner Greg Nicotero‘s “Creepshow” will include bonus episodes A Creepshow Animated Special and A Creepshow Holiday Special. The second season stars Kevin Dillon (Entourage), Ted Raimi (“Buddy […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon to punish New World dupers, add fixes to endgame content]]></title>
+        <id>https://www.polygon.com/22763729/amazon-new-world-bug-fixes-known-issues-exploits-developer-statement</id>
+        <link href="https://www.polygon.com/22763729/amazon-new-world-bug-fixes-known-issues-exploits-developer-statement"/>
+        <updated>2021-11-04T18:42:54.000Z</updated>
+        <summary type="html"><![CDATA[Image: Amazon Game Studios
+    
+
+  
+There’s plenty of work to do
+ New World is a lush fantasy MMO, but many players are ignoring the game’s actual objectives in lieu of chasing down (or being badly affected by) exploits, bugs, and gold duping. On Wednesday, developer Amazon Games posted an in-depth explanation on the game’s official forums going over many of the main problems and explaining the next steps.
+The post, written by community manager under the handle of Luxendra, goes in depth on New World character transfers and the game’s full server status, which is a hot topic in the community. New World has players group together on a server, and if you’re on a different one than your friends, you can miss out on the game’s social experience. As the servers filled up, and transfers were dis…]]></summary>
+        <author>
+            <name>Polygon -  PC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Chamber of Terror’ Poster Nails in a Festival Premiere]]></title>
+        <id>https://bloody-disgusting.com/?p=3690642</id>
+        <link href="https://bloody-disgusting.com/indie/3690642/chamber-terror-poster-nails-festival-premiere/"/>
+        <updated>2021-11-04T18:41:26.000Z</updated>
+        <summary type="html"><![CDATA[We have the official festival art created by Matthew Therrien for Mike Pereira‘s indie feature The Chamber of Terror, which premieres at the Blood in the Snow Film Festival at The Royal Cinema in Toronto, Canada on Saturday, November 20th at 9:30 pm. “The Chamber of Terror is a horror-comedy where one man’s mission of vengeance […]]]></summary>
+        <author>
+            <name>Brad Miska</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Stores to Drop Mask Requirement for Customers in Many U.S. States]]></title>
+        <id>https://www.macrumors.com/2021/11/04/apple-dropping-mask-requirement-in-stores/</id>
+        <link href="https://www.macrumors.com/2021/11/04/apple-dropping-mask-requirement-in-stores/"/>
+        <updated>2021-11-04T18:31:51.000Z</updated>
+        <summary type="html"><![CDATA[Apple will no longer require customers to wear a mask to enter many of its retail stores in the United States, reports Bloomberg. Mask mandates will disappear at several stores starting on Friday due to positive trends in vaccinations and declining COVID-19 cases.
+
+
+
+
+
+More than 100 stores will drop the mask mandate starting Friday, with the policy then expanding to additional stores based on local COVID-19 data. Apple has 270 stores in the United States. Apple shared the new policy with employees in a memo that was obtained by Bloomberg.
+After careful review, the Environment, Health, and Safety (EHS) team, along with leadership, have determined it's safe to update our guidance on masks for customers in your store. The positive trends in vaccinations, testing, and case counts for your area have made this change possible.
+Customers will be able to enter Apple retail locations vaccinated or unvaccinated, and Apple will not require proof of vaccination. In areas like Los Angeles and the San Francisco Bay Area where mask wearing is still mandated, masks will still need to be worn in Apple Stores.
+
+
+
+Though Apple is dropping mask mandates for customers in some areas, Apple employees will need to continue to wear masks at this time.
+
+
+
+Apple says that it plans to continue to monitor local guidance and COVID data throughout the holiday season, making adjustments as required.
+Tags: Apple Store, COVID-19 Coronavirus
+This article, "Apple Stores to Drop Mask Requirement for Customers in Many U.S. States" first appeared on MacRumors.com]]></summary>
+        <author>
+            <name>Juli Clover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tom Fitzpatrick Shares Surprisingly Sweet Memories of Playing the Bride in Black in the ‘Insidious’ Sequels [Mask of Insanity]]]></title>
+        <id>https://bloody-disgusting.com/?p=3690622</id>
+        <link href="https://bloody-disgusting.com/exclusives/3690622/tom-fitzpatrick-shares-surprisingly-sweet-memories-playing-bride-black-insidious-sequels-mask-insanity/"/>
+        <updated>2021-11-04T18:31:19.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Mask of Insanity, a recurring feature which will find the men and women behind some of the most indelible slashers and monsters in the genre chatting about the craziest times they’ve had behind latex or resin. These tales will allow readers insight into the wild world of horror filmmaking, while hopefully providing fans with […]]]></summary>
+        <author>
+            <name>Jason Jenkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When does Call of Duty: Vanguard go live?]]></title>
+        <id>https://www.polygon.com/22763741/call-of-duty-vanguard-release-date-new-cod-2021-unlock</id>
+        <link href="https://www.polygon.com/22763741/call-of-duty-vanguard-release-date-new-cod-2021-unlock"/>
+        <updated>2021-11-04T18:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Image: Sledgehammer Games/Activision
+    
+
+  
+Everything you need to start playing day one, minute one
+ Call of Duty: Vanguard officially launches Friday, Nov. 5, 2021. Unlike the old days of midnight events in game stores and shopping malls, many fans will be getting their copies from an online storefront. Here’s everything you need to know to jump into Sledgehammer Games’ WWII shooter day one, minute one.
+Call of Duty: Vanguard release times
+
+Call of Duty: Vanguard is for sale on the PlayStation Store, Microsoft Store for Xbox One and Xbox Series X, and Battle.net for Windows PC. The standard version is $69.99 ($59.99 for PC, PlayStation 4 and Xbox One). Those who pre-purchased the game digitally have been able to pre-load the full title (60 to 90 GB, depending on configuration) since Oc…]]></summary>
+        <author>
+            <name>Polygon -  PC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hulu Caps Off Their Huluween Celebration With the Short Film “Voodoo” [Video]]]></title>
+        <id>https://bloody-disgusting.com/?p=3689629</id>
+        <link href="https://bloody-disgusting.com/sponsored/3689629/huluween-voodoo/"/>
+        <updated>2021-11-04T18:19:45.000Z</updated>
+        <summary type="html"><![CDATA[Hulu capped off their month-long Huluween celebration this week with Phillip Youmans’ original short film, Voodoo, filmed in conjunction with their Initiative 29. You can watch it right now over on Hulu or by scrolling down… “Voodoo is a neo-noir mystery thriller set in near-future New Orleans following a homicide detective, Chance Griffin, as he […]]]></summary>
+        <author>
+            <name>Brad Miska</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twelve South Debuts ActionBand for Apple Watch Workouts]]></title>
+        <id>https://www.macrumors.com/2021/11/04/twelve-south-apple-watch-actionband/</id>
+        <link href="https://www.macrumors.com/2021/11/04/twelve-south-apple-watch-actionband/"/>
+        <updated>2021-11-04T18:16:06.000Z</updated>
+        <summary type="html"><![CDATA[Twelve South today announced the launch of the ActionBand, a new Apple Watch band option created for fitness enthusiasts. The ActionBand is designed for workouts, and it encompasses the Apple Watch in a soft, terry cotton material.
+
+
+
+
+
+The cotton of the ActionBand is meant to keep the Apple Watch tight on the wrist for heart rate measurements, and it also is sweat absorbent. It is made with lycra, and Twelve South says that it can be worn at the wrist or the forearm.
+
+
+
+
+
+Twelve South ships the ActionBand with one cuff that's designed for the Apple Watch and one plain cuff for the other wrist for a matching fit. The ActionBand is available as of today and it's priced at $29.99.
+Tag: Twelve South
+This article, "Twelve South Debuts ActionBand for Apple Watch Workouts" first appeared on MacRumors.com
+Discuss this article in our forums]]></summary>
+        <author>
+            <name>Juli Clover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flyers vs Penguins Preview: Rivalry]]></title>
+        <id>https://www.broadstreethockey.com/2021/11/4/22762749/philadelphia-flyers-vs-pittsburgh-penguins-preview-rivalry</id>
+        <link href="https://www.broadstreethockey.com/2021/11/4/22762749/philadelphia-flyers-vs-pittsburgh-penguins-preview-rivalry"/>
+        <updated>2021-11-04T18:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Photo by Len Redkoles/NHLI via Getty Images
+    
+
+  
+Everyone loves a Pennsylvania rivalry.
+ It’s one of the most fun battles in all of the NHL. The matchups between the Pittsburgh Penguins and Philadelphia Flyers always have something in store for those that watch. It’s time to stoke the fire in 2021-22.
+The Penguins
+The start for the Penguins certainly hasn’t been the one that they anticipated. They hold a 3-3-2 record for eight points and are currently on a  three-game losing streak. No disrespect to Danton Heinen, but he should not be your team’s leading scorer. 
+It has been a rough go to start the season for the roster, though, so people can’t entirely blame the record on them. It’s not as if the roster was completely healthy. After recently re-entering the lineup and playing one game…]]></summary>
+        <author>
+            <name>Broad Street Hockey -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plug and Play: Music Created For Video Game Cartridges]]></title>
+        <id>145610</id>
+        <link href="https://daily.bandcamp.com/lists/game-cartridge-music-list"/>
+        <updated>2021-11-04T18:00:33.000Z</updated>
+        <summary type="html"><![CDATA[VGM wizard Remute walks us through the music-to-cartridge scene.
+Read full story on the Bandcamp Daily.]]></summary>
+        <author>
+            <name>Zoe Camp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plug and Play: Music Created For Video Game Cartridges]]></title>
+        <id>145610</id>
+        <link href="https://daily.bandcamp.com/lists/game-cartridge-music-list"/>
+        <updated>2021-11-04T18:00:33.000Z</updated>
+        <summary type="html"><![CDATA[VGM wizard Remute walks us through the music-to-cartridge scene.
+Read full story on the Bandcamp Daily.]]></summary>
+        <author>
+            <name>Marcelo Lavin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nickel Endorsed by Local Activists, Politicians in Congressional Bid]]></title>
+        <id>https://indyweek.com/news/northcarolina/wiley-nickel-endorsed-by-local-leaders/</id>
+        <link href="https://indyweek.com/news/northcarolina/wiley-nickel-endorsed-by-local-leaders/"/>
+        <updated>2021-11-04T17:59:30.000Z</updated>
+        <summary type="html"><![CDATA[Nickel announced his first round of endorsements after declaring his run for Congress last month ahead of U.S. Rep. David Price's pending retirement.]]></summary>
+        <author>
+            <name>Jasmine Gallup</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More Than 30 Air Pollution Hotspots in North Carolina Have Elevated Cancer Rates, Per ProPublica Study]]></title>
+        <id>https://indyweek.com/news/northcarolina/more-than-30-air-pollution-hotspots-in-north-carolina-have-elevated-cancer-rates-per-propublica-study/</id>
+        <link href="https://indyweek.com/news/northcarolina/more-than-30-air-pollution-hotspots-in-north-carolina-have-elevated-cancer-rates-per-propublica-study/"/>
+        <updated>2021-11-04T17:51:29.000Z</updated>
+        <summary type="html"><![CDATA[ProPublica yesterday unveiled a massive environmental story that mapped the spread of cancer-causing chemicals from sources of hazardous air pollution across the country between 2014 and 2018.]]></summary>
+        <author>
+            <name>Lisa Sorg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Numskull Designs Plugs in Character Phone Charging Docks Based on ‘Jaws’ and ‘Ghostbusters’!]]></title>
+        <id>https://bloody-disgusting.com/?p=3690599</id>
+        <link href="https://bloody-disgusting.com/toys/3690599/numskull-designs-plugs-character-phone-charging-docks-based-jaws-ghostbusters/"/>
+        <updated>2021-11-04T17:45:51.000Z</updated>
+        <summary type="html"><![CDATA[Numskull Designs, the company behind those awesome high-end horror-themed rubber duckies, is back with a brand new product, a clever line they’re calling Power Idolz. They’re not just VHS-inspired toys they’re also fully functional charging docks for your smart phone, each one based on a classic character from a beloved 1980s property. Numskull explains, “Paying […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unpacking has 14,000 audio files just for picking things up and putting them down]]></title>
+        <id>https://www.polygon.com/gaming/22763606/unpacking-audio-files-indie-game</id>
+        <link href="https://www.polygon.com/gaming/22763606/unpacking-audio-files-indie-game"/>
+        <updated>2021-11-04T17:42:47.000Z</updated>
+        <summary type="html"><![CDATA[Image: Witch Beam/Humble Games
+    
+
+  
+Every detail of this adorable indie was carefully considered
+ On the surface, Unpacking seems like a simple game. You’ve got one goal: Unpack and organize various rooms from throughout a person’s life. You’ll start in your own bedroom, move into your college dorm, and eventually graduate to larger apartments and houses. 
+Each of the game’s levels begins with mostly empty rooms and a bunch of sealed cardboard boxes. Clicking on a box will pull out a random object from that box, which you can then place anywhere you wish. There are some rules regarding which objects can go where (e.g., toilet paper in the kitchen is a bad idea), but generally speaking you have a lot of creative freedom to determine where stuff goes. (For what it’s worth, truly free spi…]]></summary>
+        <author>
+            <name>Polygon -  PC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["This Place is Full of Satanic Activity": The One-Star Anti-Masker Review of Luna Rotisserie That Became a Commemorative T-Shirt]]></title>
+        <id>https://indyweek.com/food-and-drink/features/why-luna-owner-shawn-stokes-turned-a-one-star-review-into-a-t-shirt/</id>
+        <link href="https://indyweek.com/food-and-drink/features/why-luna-owner-shawn-stokes-turned-a-one-star-review-into-a-t-shirt/"/>
+        <updated>2021-11-04T17:42:41.000Z</updated>
+        <summary type="html"><![CDATA[The T-shirt became available online last night.]]></summary>
+        <author>
+            <name>Sarah Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Republican Lawmakers Take on Diversity Training, Decry "Indoctrination" at UNC-Chapel Hill]]></title>
+        <id>https://indyweek.com/news/northcarolina/republican-lawmakers-take-on-diversity-training-decry-indoctrination-at-unc/</id>
+        <link href="https://indyweek.com/news/northcarolina/republican-lawmakers-take-on-diversity-training-decry-indoctrination-at-unc/"/>
+        <updated>2021-11-04T17:30:42.000Z</updated>
+        <summary type="html"><![CDATA[N.C. House Majority Whip Jon Hardister and other Republicans are upset that the UNC Office of Fraternity and Sorority Life mandated an anti-discrimination training because it could make students feel "guilty" or "convicted" for being white.]]></summary>
+        <author>
+            <name>Joe Killian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Trailer] ‘The Twilight Zone VR’ Coming Soon From The Makers of ‘The Exorcist: Legion VR’]]></title>
+        <id>https://bloody-disgusting.com/?p=3690480</id>
+        <link href="https://bloody-disgusting.com/video-games/3690480/trailer-the-twilight-zone-vr-comes-to-vr-soon-from-the-makers-of-the-exorcist-legion-vr/"/>
+        <updated>2021-11-04T17:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Despite the premature death of The Twilight Zone revival, there’s still very much life in the franchise. Case in point: UK-based studio Pocket Money Games is developing a VR game based on the 1959 series. The Twilight Zone VR is currently in development for the Oculus Quest and PlayStation VR, and will feature three self-contained […]]]></summary>
+        <author>
+            <name>Mike Wilson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple ID Website Gets Design Overhaul]]></title>
+        <id>https://www.macrumors.com/2021/11/04/apple-id-website-redesign/</id>
+        <link href="https://www.macrumors.com/2021/11/04/apple-id-website-redesign/"/>
+        <updated>2021-11-04T17:19:47.000Z</updated>
+        <summary type="html"><![CDATA[Apple has redesigned its Apple ID website, introducing an entirely new look that's much more modern and clean than the prior design that was used.
+
+
+
+
+
+The Apple ID landing page has been updated with a new dot and Apple logo design, along with information on what the ‌Apple ID‌ website can be used for. The prior design was graphics heavy, featuring a large banner with people using various Apple devices.
+
+
+
+
+
+Logging in to the ‌Apple ID‌ website presents all of the available ‌Apple ID‌ management options in a card-style view, plus there are navigation options on the left.
+
+
+
+
+
+The card view offers information at a glance, like your ‌Apple ID‌, your notification email, whether you have two-factor authentication enabled, and the last time that your password was updated. Clicking through the navigation options brings up more info like your name, birthday, reachable email addresses, device list, payment options, and more.
+
+
+
+The entire website is simple, responsive, and easy to navigate, and it's quicker than the prior website. The new look is a definite improvement over the previous design for those who need to manage their Apple IDs on the web. The new website design can be found at https://appleid.apple.com/.
+Tag: Apple ID
+This article, "Apple ID Website Gets Design Overhaul" first appeared on MacRumors.com
+Discuss this article in our forums]]></summary>
+        <author>
+            <name>Juli Clover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This horror game makes searching the walkthrough part of the mystery]]></title>
+        <id>https://www.polygon.com/22763547/mirror-layers-social-horror-game-impressions-pc</id>
+        <link href="https://www.polygon.com/22763547/mirror-layers-social-horror-game-impressions-pc"/>
+        <updated>2021-11-04T17:04:34.000Z</updated>
+        <summary type="html"><![CDATA[Image: Revolab/Ivan Zanotti
+    
+
+  
+We’re all trapped in here together
+ Mirror Layers is, on the surface, a very standard horror experience. I’m trapped in a house with two realities and hidden secrets, being hunted by a terrifying humanoid monster of some kind. I can shimmy underneath a bed or lock myself in a closet to avoid its gaze, but I’m still trapped in this Silent Hill-esque mystery apartment. 
+The normal apartment is perfectly mundane — the only thing scary is thinking about how much rent costs for this spacious spot. The evil, alternate universe apartment is dark, corrupted with dark veiny roots, and altogether nefarious.
+Ah, but there’s a twist! There’s an old PC in the apartment, and I can use it to ask questions and check progress with other players who are at a similar stag…]]></summary>
+        <author>
+            <name>Polygon -  PC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ultimate Ski Run]]></title>
+        <id>https://kottke.org/21/11/the-ultimate-ski-run</id>
+        <link href="https://kottke.org/21/11/the-ultimate-ski-run"/>
+        <updated>2021-11-04T16:56:55.000Z</updated>
+        <summary type="html"><![CDATA[This is a really entertaining ski video from Markus Eder that combines the playful free skiing of Candide Thovex with JP Auclair’s street skiing. My kids do free skiing — not on stuff like this quite yet — and let me assure you that as steep, fast, and big as everything looks in that video, it’s steeper faster, and bigger in real life. It took so much effort and planning to make that run look so easy.
+Tags: Markus Eder   skiing   sports   video]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R.L. Stine’s Upcoming “Stinetinglers” Collection Features 10 Brand New Horror Stories!]]></title>
+        <id>https://bloody-disgusting.com/?p=3690586</id>
+        <link href="https://bloody-disgusting.com/books/3690586/r-l-stines-upcoming-stinetinglers-collection-features-10-brand-new-horror-stories/"/>
+        <updated>2021-11-04T16:32:31.000Z</updated>
+        <summary type="html"><![CDATA[Much like Stephen King, R.L. Stine never stops writing, and while the Goosebumps franchise continues going strong, a brand new collection of spooky tales is on the way soon. Entertainment Weekly has announced Stinetinglers today, an upcoming book that’s packed with “all new stories by the master of scary tales.” Ten of them, in fact! […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[League of Legends champion Jinx coming to Fortnite]]></title>
+        <id>https://www.polygon.com/22763224/league-of-legends-jinx-fortnite-skin-valorant-epic-games-store</id>
+        <link href="https://www.polygon.com/22763224/league-of-legends-jinx-fortnite-skin-valorant-epic-games-store"/>
+        <updated>2021-11-04T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Image: Epic Games/Riot Games
+    
+
+  
+Riot is also bringing League of Legends and Valorant to the Epic Games Store
+ League of Legends is getting a new crossover event with Fortnite. The League champion Jinx is coming to Fortnite just in time for Riot and Netflix’s upcoming animated series, Arcane, which will feature Jinx as one of its main characters. This will be the first time that a League of Legends character has been featured in a non-Riot game. 
+Like so many characters from other games and movies, the Jinx skin will be purchasable from Fortnite’s in-game store. Players can also buy a bundle that includes Jinx’s Pow Pow Crusher Pickaxe, along with other Jinx-themed items, like a spray, back bling, music track, and two loading screens. 
+Riot Games is partnering with Epic for more than just character crossovers, though. The League of Legends developer is bringing many of its games to the Epic Games Store as well. Valorant, League of Legends, Teamfight Tactics, and Legends of Runeterra will all be available on the Epic Games Store in the near future, Riot and Epic announced on Thursday. Downloading any of Riot’s games from the Epic Games Store will also install Riot’s launcher, which will allow you to access all of the games directly. 
+Jinx will arrive in Fortnite on Nov. 4 at 8 p.m. ET, and the Arcane animated series will premiere on Netflix at 10 p.m. ET on Nov. 6.]]></summary>
+        <author>
+            <name>Polygon -  PC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flyers kick off Flyers road game watch parties with tonight’s game against Penguins]]></title>
+        <id>https://www.broadstreethockey.com/2021/11/4/22762668/philadelphia-flyers-road-game-watch-parties-fans-giveaways-tickets-memorabilia-pittsburgh-penguins</id>
+        <link href="https://www.broadstreethockey.com/2021/11/4/22762668/philadelphia-flyers-road-game-watch-parties-fans-giveaways-tickets-memorabilia-pittsburgh-penguins"/>
+        <updated>2021-11-04T16:13:22.000Z</updated>
+        <summary type="html"><![CDATA[Photo by Len Redkoles/NHLI via Getty Images
+    
+
+  
+The Battle of Pennsylvania is always fun, why not come out and watch the game with your fellow Flyers fans?
+ The Philadelphia Flyers are coming off a 3-0 shutout win on home ice on Tuesday night. It was their third home win of the season to go along with two road wins. Fans are always able to celebrate together at home games, but what about during road games?
+The Flyers now have you covered with monthly watch parties.
+Their new program, Flyers Road Game Watch Party, will take place during select Flyers away games throughout the season, to bring the excitement of Wells Fargo Center to fans around the Greater Philadelphia Area.  
+What better way to kick things off than with a watch party for the first Battle of Pennsylvania of the season? …]]></summary>
+        <author>
+            <name>Broad Street Hockey -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gael Garcia Bernal Will Star in Marvel’s Werewolf-Themed Halloween Special for Disney+]]></title>
+        <id>https://bloody-disgusting.com/?p=3690580</id>
+        <link href="https://bloody-disgusting.com/tv/3690580/gael-garcia-bernal-will-star-marvels-werewolf-themed-halloween-special-disney/"/>
+        <updated>2021-11-04T16:07:38.000Z</updated>
+        <summary type="html"><![CDATA[Announced over the summer, a Halloween special from Marvel is headed to Disney+ next year, with the project “said to be centered on a werewolf character.” Naturally, this is leading to speculation that the project centers on the Werewolf by Night character, though that has not been confirmed at this time. Today, however, does bring a nice little […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The ‘April Fool’s Day’ Remake Kills Off All the Charm of the Original Slasher [Revenge of the Remakes]]]></title>
+        <id>https://bloody-disgusting.com/?p=3690566</id>
+        <link href="https://bloody-disgusting.com/editorials/3690566/april-fools-day-remake-kills-off-charm-original-slasher-revenge-remakes/"/>
+        <updated>2021-11-04T15:59:37.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Revenge of the Remakes, where columnist Matt Donato takes us on a journey through the world of horror remakes. We all complain about Hollywood’s lack of originality whenever studios announce new remakes, reboots, and reimaginings, but the reality? Far more positive examples of refurbished classics and updated legacies exist than you’re willing to remember […]]]></summary>
+        <author>
+            <name>Matt Donato</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Play Will Let Developers Use Alternative Billing Systems in South Korea, While Apple Has Yet to Make Changes]]></title>
+        <id>https://www.macrumors.com/2021/11/04/google-play-will-allow-alternative-billing/</id>
+        <link href="https://www.macrumors.com/2021/11/04/google-play-will-allow-alternative-billing/"/>
+        <updated>2021-11-04T15:57:15.000Z</updated>
+        <summary type="html"><![CDATA[The South Korean government recently passed a law that bans Apple and Google from requiring developers to use their in-app purchase systems in the App Store and Google Play respectively, and Google has now announced changes to comply with the law.
+
+
+
+
+
+In a blog post, Google said it will be giving developers the option to add an alternative in-app billing system alongside the Play Store's billing system for Android smartphone and tablet users in South Korea. Google said the users will be able to choose which billing system to use at checkout, as seen in the example image above, and the company plans to provide developers with more details "in the coming weeks and months."
+
+
+
+Google still plans to charge a service fee on in-app purchases completed through an alternative billing sy…]]></summary>
+        <author>
+            <name>Joe Rossignol</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deals: Get Apple's 512GB 16-Inch MacBook Pro for $2,449.99 ($49 Off)]]></title>
+        <id>https://www.macrumors.com/2021/11/04/deals-16-inch-macbook-pro-5/</id>
+        <link href="https://www.macrumors.com/2021/11/04/deals-16-inch-macbook-pro-5/"/>
+        <updated>2021-11-04T15:43:59.000Z</updated>
+        <summary type="html"><![CDATA[Amazon today has Apple's 16-inch MacBook Pro (10-Core M1 Pro, 512GB) for $2,449.99, down from $2,499.00. This remains the lowest price we've tracked on this model, and as of writing Amazon is the only major Apple reseller offering this discount.
+
+
+
+Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.
+
+
+
+Only the Silver color option is available at this price, and it's being shipped and sold directly from Amazon. 
+
+
+
+
+$49 OFF
+16-Inch MacBook Pro (512GB) for $2,449.99
+
+
+
+
+
+There are a few other new MacBook Pros being discounted on Amazon, but you'll find delayed shipping estimates for most. The 14-inch MacBook Pro (8-Core M1 Pro, 512GB) is available for $1,949.99, down from $1,999.00, but it won't ship until late November. The same estimate can be found for the 1TB 16-inch model.
+
+
+
+This will likely continue to be a trend as we head further into the holiday season, as Apple's own website has most models of the 2021 MacBook Pro shipping in late November and early December. If you're looking at these for holiday presents, the earlier you order the more you'll ensure a timely delivery.
+
+
+
+You can find even more discounts on other MacBooks by visiting our Best Deals guide for MacBook Pro and MacBook Air. In this guide we track the steepest discounts for the newest MacBook models every week, so be sure to bookmark it and check back often if you're shopping for a new Apple notebook.
+Related Roundups: Apple Deals, 14 & 16" MacBook Pro
+Buyer's Guide: 14" & 16" MacBook Pro (Buy Now)
+Related Forum: MacBook Pro
+This article, "Deals: Get Apple's 512GB 16-Inch MacBook Pro for $2,449.99 ($49 Off)" first appeared on MacRumors.com
+Discuss this article in our forums]]></summary>
+        <author>
+            <name>Mitchel Broussard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Creature-Filled ‘Resident Evil: Welcome to Raccoon City’ Trailer Is a Straight-Up Nightmare! [Video]]]></title>
+        <id>https://bloody-disgusting.com/?p=3690552</id>
+        <link href="https://bloody-disgusting.com/movie/3690552/new-creature-filled-resident-evil-welcome-raccoon-city-trailer-straight-nightmare-video/"/>
+        <updated>2021-11-04T15:20:11.000Z</updated>
+        <summary type="html"><![CDATA[While I enjoy Paul W.S. Anderson’s Resident Evil films, they’re in no way “horror” and lean more into sci-fi action territory. Johannes Roberts (47 Meters Down, The Strangers: Prey at Night) is going to change that with his Resident Evil: Welcome to Raccoon City, which gets back to the franchise’s horror roots with what looks like […]]]></summary>
+        <author>
+            <name>Brad Miska</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saban Films Acquires ‘Dig’, Starring Emile Hirsch and Thomas Jane]]></title>
+        <id>https://bloody-disgusting.com/?p=3690547</id>
+        <link href="https://bloody-disgusting.com/news/3690547/saban-films-acquires-dig-starring-emile-hirsch-thomas-jane/"/>
+        <updated>2021-11-04T15:05:27.000Z</updated>
+        <summary type="html"><![CDATA[Deadline shares a new image of Thomas Jane (Deep Blue Sea, The Predator, The Mist) and his daughter Harlow Jane in Dig, which Saban Films will release sometime next year. Emile Hirsch (Son, Freaks) and Liana Liberato also star. In the film… “Contracted for home demolition, a widowed father (Thomas Jane) and his daughter suffering from major hearing loss […]]]></summary>
+        <author>
+            <name>Brad Miska</name>
         </author>
     </entry>
     <entry>
@@ -173,7 +850,7 @@ Read full story on the Bandcamp Daily.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iPhone X Modded With USB-C Port Listed on eBay With Bids Topping $85,000]]></title>
+        <title type="html"><![CDATA[iPhone X Modded With USB-C Port Listed on eBay With Bids Topping $99,000]]></title>
         <id>https://www.macrumors.com/2021/11/04/usb-c-iphone-ebay-auction/</id>
         <link href="https://www.macrumors.com/2021/11/04/usb-c-iphone-ebay-auction/"/>
         <updated>2021-11-04T13:21:58.000Z</updated>
@@ -184,7 +861,7 @@ Read full story on the Bandcamp Daily.]]></summary>
 
 
 
-Pillonel also put the device up for auction on eBay, and bids are already topping a whopping $85,000. The listing describes the device as "the world's first USB-C iPhone" and a "true piece of collection for any Apple fanboy out there."
+Pillonel also put the device up for auction on eBay, and bids are already topping a whopping $99,000. The listing describes the device as "the world's first USB-C iPhone" and a "true piece of collection for any Apple fanboy out there."
 
 
 
@@ -200,8 +877,12 @@ While many have called on Apple to add a USB-C port to the iPhone, the device co
 
 
 
+This story will be updated periodically as the highest bid increases.
+
+
+
 (Thanks, Martin Nobel!)
-This article, "iPhone X Modded With USB-C Port Listed on eBay With Bids Topping $85,000" first appeared on MacRumors.com
+This article, "iPhone X Modded With USB-C Port Listed on eBay With Bids Topping $99,000" first appeared on MacRumors.com
 Discuss this article in our forums]]></summary>
         <author>
             <name>Joe Rossignol</name>
@@ -276,6 +957,28 @@ The post Nuclear Black Industrial/Powernoise Abyss: URANIUM ‘Wormboiler’ Ful
         <summary type="html"><![CDATA[So, after last month’s surprise reveal that Rosario Dawson would be joining the cast of the upcoming Dying Light 2, you’re probably wanting to know more. Well, as a coincidence, the latest episode of “Dying 2 Know More” has just what you need. Dawson is joined by Techland Lead Game Designer Tymon Smektała to chat […]]]></summary>
         <author>
             <name>Mike Wilson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How do you tell if a problem is caused by DNS?]]></title>
+        <id>https://jvns.ca/blog/2021/11/04/how-do-you-tell-if-a-problem-is-caused-by-dns/</id>
+        <link href="https://jvns.ca/blog/2021/11/04/how-do-you-tell-if-a-problem-is-caused-by-dns/"/>
+        <updated>2021-11-04T11:19:22.000Z</updated>
+        <summary type="html"><![CDATA[I was looking into problems people were having with DNS a few months ago and I
+noticed one common theme – a lot of people have server issues (“my server is
+down! or it’s slow!“), but they can’t tell if the problem is caused by DNS or
+not.
+So here are a few tools I use to tell if a problem I’m having is caused by DNS,
+as well as a few DNS debuggging stories from my life.
+I don’t try to interpret browser error messages
+First, let’s talk briefly about browser error messages. You might think that
+your browser will tell you if the problem is DNS or not! And it could but
+mine doesn’t seem to do so in any obvious way.
+On my machine, if Firefox fails to resolve DNS for a site, it gives me the
+error: Hmm. We’re having trouble finding that site. We can’t connect to the
+server at bananas.wizardzines.…]]></summary>
+        <author>
+            <name>Julia Evans</name>
         </author>
     </entry>
     <entry>
@@ -29242,329 +29945,6 @@ The AirTag 4-pack comes with a one year Apple Manufacturer Limited Warranty, and
         <summary type="html"><![CDATA[The original plan was for animated sequel Hotel Transylvania: Transformania to release in theaters on October 1st, but Sony Pictures Animation ultimately made the decision to pull that release and instead sell off the film to Amazon. That means the new movie is coming directly to the Amazon Prime Video streaming service, and skipping a […]]]></summary>
         <author>
             <name>John Squires</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O'Neal and Incumbents Come Out on Top in Durham Primary]]></title>
-        <id>https://indyweek.com/news/durham/o-neal-and-incumbents-come-out-on-top-in-durham-primary/</id>
-        <link href="https://indyweek.com/news/durham/o-neal-and-incumbents-come-out-on-top-in-durham-primary/"/>
-        <updated>2021-10-06T12:06:59.000Z</updated>
-        <summary type="html"><![CDATA[Elaine O'Neal will face Javiera Caballero in the mayor's race. DeDreana Freeman will face Marion Johnson in Ward I. And Mark-Anthony Middleton will face off against Sylvester Williams.]]></summary>
-        <author>
-            <name>Jane Porter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[these Punk Metal Hippies RULE! Listen to CRISIS BEAT ‘VOID OF HUMANITY’ EP]]></title>
-        <id>https://cvltnation.com/?p=285759</id>
-        <link href="https://cvltnation.com/these-punk-metal-hippies-rule-listen-to-crisis-beat-void-of-humanity-ep/"/>
-        <updated>2021-10-06T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Yep, real talk, I’m that boy! I’m a Black King that has no tolerance for racism or anyone who apologizes for racism. This is why I’m a champion of the new CRISIS BEAT record VOID OF HUMANITY because this band creates insanely awesome music while holding the sharp edge of their antiracist sword up to […]
-The post these Punk Metal Hippies RULE! Listen to CRISIS BEAT ‘VOID OF HUMANITY’ EP first appeared on CVLT Nation.]]></summary>
-        <author>
-            <name>Sean Reveron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding the daily DevCard to your GitHub profile]]></title>
-        <id>https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile</id>
-        <link href="https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile"/>
-        <updated>2021-10-06T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will cover two different ways of showing your reading interests through your GitHub profile: manually adding your DevCard by copying the code and automatically updating DevCard by leveraging GitHub actions.]]></summary>
-        <author>
-            <name>daily.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Trailer] Hellishly Gory Action Title ‘Succubus’ Now Available on Steam]]></title>
-        <id>https://bloody-disgusting.com/?p=3685964</id>
-        <link href="https://bloody-disgusting.com/video-games/3685964/trailer-hellishly-gory-action-title-succubus-now-available-on-steam/"/>
-        <updated>2021-10-06T11:43:54.000Z</updated>
-        <summary type="html"><![CDATA[Madmind Studios’ spin-off to Agony is finally here. Succubus, the third-person action gorefest is finally available on Steam, and with it, a new launch trailer. And yes, in keeping with the “adults only” nature of the title, the new trailer is once again slapped with a warning. But hey, there aren’t any kids watching yet, […]]]></summary>
-        <author>
-            <name>Mike Wilson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cruentus – Night Embrace Me]]></title>
-        <id>https://www.teethofthedivine.com/?p=56881</id>
-        <link href="https://www.teethofthedivine.com/reviews/cruentus-night-embrace-me/"/>
-        <updated>2021-10-06T11:31:12.000Z</updated>
-        <summary type="html"><![CDATA[My man Ray Lopez, owner of Thrash Corner Records recently re-released this debut album on CD, from Sweden’s Cruentus.  Night Embrace Me is 10 songs of blackened/death/thrash metal.  The opening song, “Slain”, gets things underway quickly.  Some early Skeletonwitch influence are evident early on.  The one thing, well there are many, that you will notice […]]]></summary>
-        <author>
-            <name>Frank Rini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F#CK Your Head Up! Listen to MIDWESTLUST’s “Fall Into” + Tour Announcement]]></title>
-        <id>https://cvltnation.com/?p=285778</id>
-        <link href="https://cvltnation.com/fck-your-head-listen-to-midwestlust-fall-into-tour-announcement/"/>
-        <updated>2021-10-06T11:00:53.000Z</updated>
-        <summary type="html"><![CDATA[WTF do we have here? Let me tell y’all — it’s time for you to check out this boombastic track from MIDWESTLUST. Straight up, this song “Fall Into” will fuck your head up and more. While I’ve got your attention, I want to let y’all know that MIDWESTLUST will be hitting the road with KNOLL, […]
-The post F#CK Your Head Up! Listen to MIDWESTLUST’s “Fall Into” + Tour Announcement first appeared on CVLT Nation.]]></summary>
-        <author>
-            <name>Sean Reveron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atræ Bilis – Apexapien Review]]></title>
-        <id>https://yourlastrites.com/?p=37796</id>
-        <link href="https://yourlastrites.com/2021/10/06/atrae-bilis-apexapien-review/"/>
-        <updated>2021-10-06T11:00:45.000Z</updated>
-        <summary type="html"><![CDATA[[cover art by Eliran Kantor] The term bouncy applies to many things in life, including: A ball that you throw against the wall when you’re bored An adorable kangaroo or rabbit An inflatable castle that made all your friends jealous of your birthday party when you were six Your wife’s chesty bits as she goes ...]]></summary>
-        <author>
-            <name>Spencer Hotz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Far Cry 6 is a waste of potential]]></title>
-        <id>https://www.polygon.com/reviews/22711610/far-cry-6-review-ps5-xbox-series-x-pc-ps4-xbox-one</id>
-        <link href="https://www.polygon.com/reviews/22711610/far-cry-6-review-ps5-xbox-series-x-pc-ps4-xbox-one"/>
-        <updated>2021-10-06T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image: Ubisoft Toronto/Ubisoft via Polygon
-    
-
-
-  
-Ubisoft’s newest open world is frozen in time
- Yara, the Cuba-inspired region in which Far Cry 6 takes place, is introduced as a “tropical paradise frozen in time.” Its people once raised arms to overthrow a dictator, but now, his son Antón Castillo (voiced by Afro-Italian actor Giancarlo Esposito) is following in his footsteps, deploying the military in every corner and disposing of anyone who isn’t what he calls a “True Yaran.” History begins to repeat itself through abusive and exploitative practices, while the country burns and progress is measured in blood. And like its island setting, Far Cry 6 feels like history repeating itself — a perfect showcase for how Far Cry as a whole is frozen in time.
-Through the eyes of Dani Rojas (a ch…]]></summary>
-        <author>
-            <name>Polygon -  PC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Open Durham Is Chronicling the Bull City’s Storied Past and Swiftly Changing Present]]></title>
-        <id>https://indyweek.com/culture/etc/a-history-of-open-durham/</id>
-        <link href="https://indyweek.com/culture/etc/a-history-of-open-durham/"/>
-        <updated>2021-10-06T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[For history nerds, this kind of database is obviously invaluable. But as development continues aggressively apace, it is also evidence of, and argument for, a rapidly vanishing city.]]></summary>
-        <author>
-            <name>Sarah Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[With Its Final Album, Cochonne Brings an Era of Deranged Playfulness to a Close]]></title>
-        <id>https://indyweek.com/music/reviews/cochonne-emergency/</id>
-        <link href="https://indyweek.com/music/reviews/cochonne-emergency/"/>
-        <updated>2021-10-06T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The life-sucking force of consumption never sounded so appealing.]]></summary>
-        <author>
-            <name>Dan Ruccia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two New Regional Productions Take Winding, Unorthodox Paths to Opening Night]]></title>
-        <id>https://indyweek.com/culture/stage/two-new-regional-productions-take-winding-unorthodox-paths-t/</id>
-        <link href="https://indyweek.com/culture/stage/two-new-regional-productions-take-winding-unorthodox-paths-t/"/>
-        <updated>2021-10-06T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[As seasoned theater veterans, Melissa Dombrowski and Joanna Sisk-Purvis know the old showbiz adage, “Changes keep a show fresh.”]]></summary>
-        <author>
-            <name>Byron Woods</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPad Mini 6 Screen Distortion Complaints Surface, But No Evidence Yet That It's a Widespread Issue]]></title>
-        <id>https://www.macrumors.com/2021/10/06/ipad-mini-6-screen-discoloration-distortion/</id>
-        <link href="https://www.macrumors.com/2021/10/06/ipad-mini-6-screen-discoloration-distortion/"/>
-        <updated>2021-10-06T10:02:03.000Z</updated>
-        <summary type="html"><![CDATA[Following complaints of "jelly scrolling" on the iPad mini 6 display, another issue has gained traction online that also has to do with the device's 8.3-inch Liquid Retina LCD panel.
-
-
-
-
-
-A poster on Reddit brought attention to a discoloration and distortion issue that they were having when touching the screen with the iPad in portrait orientation.
-
-I got my 64gb Wi-Fi iPad Mini 6 just about a week ago and noticed that there seems to be an LCD clearance issue – if you put your mini in vertical orientation (with the power button on the top right) push very lightly on the screen and you will see distortion and discoloration about an inch down and in from the top right. On most models this will happen in three spots along the top of the display (when vertical).
-The Redditor claims the…]]></summary>
-        <author>
-            <name>Tim Hardwick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wednesday Morning Fly By: Team’s almost here]]></title>
-        <id>https://www.broadstreethockey.com/2021/10/6/22711560/wednesday-morning-fly-by-teams-almost-here</id>
-        <link href="https://www.broadstreethockey.com/2021/10/6/22711560/wednesday-morning-fly-by-teams-almost-here"/>
-        <updated>2021-10-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Eric Hartline-USA TODAY Sports
-    
-
-  
-Today’s open discussion thread, complete with your daily dose of Flyers news and notes…  
- *There was a games yesterday, but no one could watch it. Did it really happen? Schrodinger's Hockey Game. The Flyers lost, so yeah let’s just pretend it never happened. RECAP! 
-*We DID get to watch the one before that, though. And the Flyers won, and we learned some stuff. [BSH]
-*Judging by Alain Vigneault’s comments yesterday, today is the day the final roster starts to get finalized. Exciting! 
-Alain Vigneault said before tonight's preseason game that by Thursday's practice, they'll be down to 22-24 players on their camp roster, in anticipation of the final preseason game on Friday. So basically their final roster.
-— Charlie O'Connor (@charlieo_conn) October 5, 2021
-
-
-
-*To that end, the Flyers made some not-all-too-surprising cuts yesterday. [BSH]
-*Meltzer has some thoughts on the latest at training camp. [Flyers]
-*The roster isn’t the only thing that needs figuring out, though. The preseason games are a great place to try and figure out how to make your special teams actually work. [Inquirer]
-*Charlie gave us 10 Things from that Boston game the other night, always good stuff. [The Athletic]
-*Charlie mentions it in his article but it bears calling out: Robin Lehner has walked back his comments on AV, claiming he never meant to suggest the Flyers or Vigneault were involved in this whole medications accusation. Lehner is now involved in talks with the league to try and get some resolution. [ESPN]
-*And finally, the full season predictions and models are dropping, and DGB’s got some ideas about how all 32 teams will shake out. [The Athletic]]]></summary>
-        <author>
-            <name>Broad Street Hockey -  All Posts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photoseries: Demonstrators Marched in Durham This Weekend for Reproductive Freedom]]></title>
-        <id>https://indyweek.com/news/durham/photoseries-demonstrators-marched-in-durham-this-weekend-for-reproductive-freedom/</id>
-        <link href="https://indyweek.com/news/durham/photoseries-demonstrators-marched-in-durham-this-weekend-for-reproductive-freedom/"/>
-        <updated>2021-10-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Crowds gathered in Durham and other cities across the state and nation to protest a draconian Texas anti-abortion law and stand up for reproductive rights.]]></summary>
-        <author>
-            <name>Jenny Warburg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A New Bill in Congress Would Allow Survivors Exposed to Contaminated Tap Water at Camp Lejeune to Sue the U.S. Government for Damages]]></title>
-        <id>https://indyweek.com/news/northcarolina/survivors-of-contaminated-water-at-camp-lejeune-are-cautious/</id>
-        <link href="https://indyweek.com/news/northcarolina/survivors-of-contaminated-water-at-camp-lejeune-are-cautious/"/>
-        <updated>2021-10-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Camp Lejeune Justice Act is gaining traction, but the probability of its passage remains uncertain.]]></summary>
-        <author>
-            <name>Lewis Kendall</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Backtalk: Et tu, indyweek?]]></title>
-        <id>https://indyweek.com/news/Letters-to-the-Editor/backtalk-et-tu-indyweek/</id>
-        <link href="https://indyweek.com/news/Letters-to-the-Editor/backtalk-et-tu-indyweek/"/>
-        <updated>2021-10-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[And other things our readers told us this week.]]></summary>
-        <author>
-            <name>INDY Week</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Potentially Illegal Credit Check by a Local Car Dealership Could Threaten a Durham Woman's Home]]></title>
-        <id>https://indyweek.com/news/durham/a-durham-woman-says-michael-jordan-nissan-ran-an-illegal-credit-check-that-threatens-her-home/</id>
-        <link href="https://indyweek.com/news/durham/a-durham-woman-says-michael-jordan-nissan-ran-an-illegal-credit-check-that-threatens-her-home/"/>
-        <updated>2021-10-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Donna Frederick says Michael Jordan's unauthorized credit checks tore up her credit score, preventing her from cashing social security checks and putting her at risk of foreclosure. The dealership says otherwise.]]></summary>
-        <author>
-            <name>Thomasi McDonald</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Intersex, Transgender Woman Incarcerated at a Men's Prison Wants to Transfer to a Women's Facility for Her Safety]]></title>
-        <id>https://indyweek.com/news/northcarolina/intersex-transgender-prisoner-ashlee-inscoe-is-requesting-transfer-to-a-womens-facility/</id>
-        <link href="https://indyweek.com/news/northcarolina/intersex-transgender-prisoner-ashlee-inscoe-is-requesting-transfer-to-a-womens-facility/"/>
-        <updated>2021-10-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[North Carolina's Department of Public Safety hasn't complied with Ashlee Inscoe's and her advocates' request to transfer her out of the Avery Mitchell men's correctional institution.]]></summary>
-        <author>
-            <name>Jade  Wilson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Got No Obvious Destination, innit GNOD “Pink Champagne Blues” Skate Video]]></title>
-        <id>https://cvltnation.com/?p=285781</id>
-        <link href="https://cvltnation.com/got-no-obvious-destination-innit-gnod-pink-champagne-blues-skate-video/"/>
-        <updated>2021-10-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There’s something magical about GNOD’s “Pink Champagne Blues” playing as the soundtrack to a sick skate video! This weird hardcore psych noise band enlisted Baghead Crew to make a mini skate video for their first single off their new album La Mort Du Sens and if you’re someone who enjoys joyful flight with painful landings […]
-The post Got No Obvious Destination, innit 
-GNOD “Pink Champagne Blues” Skate Video first appeared on CVLT Nation.]]></summary>
-        <author>
-            <name>Meghan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tim Cook Wants Apple Devices to Be Used for Creativity, Not 'Endless, Mindless Scrolling']]></title>
-        <id>https://www.macrumors.com/2021/10/06/tim-cook-endless-scrolling-too-much-technology/</id>
-        <link href="https://www.macrumors.com/2021/10/06/tim-cook-endless-scrolling-too-much-technology/"/>
-        <updated>2021-10-06T09:07:29.000Z</updated>
-        <summary type="html"><![CDATA[In a new interview, Apple CEO Tim Cook said he's worried about the "endless, mindless scrolling" behavior that social media inspires people to undertake and is generally concerned that people are "using technology too much."
-
-
-
-
-
-The interview conducted with Bustle touched heavily on Apple's support of Shine, an app designed to fight social stigmas around mental health issues and is "another powerful example of how technology can be used to help improve people's lives," according to Cook. During the interview, Cook said that "mental health is a crisis" and that he tackles the day-to-day stress of being Apple's CEO by meditation and "being out in nature and feeling so insignificant in the world." 
-
-
-
-Talking about online and technology addiction, Cook repeated a claim he's made pr…]]></summary>
-        <author>
-            <name>Sami Fathi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Torment & Glory! An interview with BRIAN COOK]]></title>
-        <id>https://cvltnation.com/?p=285755</id>
-        <link href="https://cvltnation.com/torment-glory-an-interview-with-brian-cook/"/>
-        <updated>2021-10-06T09:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Torment & Glory We Left a Note with an Apology is out now on Sargent House I’m really enjoying We Left a Note With an Apology. It sounds quite unlike anything else you’ve done, yet still sounds like you. It’s my understanding that its origin was a dusty, poorly cared-for copy of Bruce Springsteen’s Nebraska […]
-The post Torment & Glory! An interview with BRIAN COOK first appeared on CVLT Nation.]]></summary>
-        <author>
-            <name>Milton Stille</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30 Minute Creamy Chicken and Parmesan Sage Dumplings.]]></title>
-        <id>https://www.halfbakedharvest.com/?p=112148</id>
-        <link href="https://www.halfbakedharvest.com/chicken-and-parmesan-sage-dumplings/"/>
-        <updated>2021-10-06T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[30 Minute Creamy Chicken and Parmesan Sage Dumplings.
-Easy 30 Minute Creamy Chicken and Parmesan Sage Dumplings. All made in just one pot for a cozy delicious dinner. Taking a classic and upping the flavor with caramelized shallots, garlic, fresh sage, and a touch of milk. This warming herb filled soup base is topped with light and airy parmesan dumplings making every bite…
-READ: 30 Minute Creamy Chicken and Parmesan Sage Dumplings.]]></summary>
-        <author>
-            <name>halfbakedharvest</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[See the Disturbing Truth of CHEN CHIEH-JEN ‘Revolt in the Soul and Body, 1990–1999’]]></title>
-        <id>https://cvltnation.com/?p=273937</id>
-        <link href="https://cvltnation.com/chen-chieh-jen-revolt-in-the-soul-and-body/"/>
-        <updated>2021-10-06T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I’m fascinated by the moral ambiguity of humanity. For example, why do we condemn some men as “deviant” and others as “heroes” for taking the same immoral action? In both cases, torturing another human has to be enjoyable for the torturer – otherwise, they wouldn’t have the ability to carry it out. And where does […]
-The post See the Disturbing Truth of CHEN CHIEH-JEN ‘Revolt in the Soul and Body, 1990–1999’ first appeared on CVLT Nation.]]></summary>
-        <author>
-            <name>Meghan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safari 15 Extension for Mac Helps You Tell Which Tab Is Active]]></title>
-        <id>https://www.macrumors.com/2021/10/06/safari-15-extension-mac-helps-tell-tab-active/</id>
-        <link href="https://www.macrumors.com/2021/10/06/safari-15-extension-mac-helps-tell-tab-active/"/>
-        <updated>2021-10-06T07:58:23.000Z</updated>
-        <summary type="html"><![CDATA[Safari 15 has faced a barrage of complaints about its controversial new design, and while Apple has listened to user feedback and reversed some changes or made them optional, many users still struggle to discern an active tab from a background tab on the Mac browser because of the inverted shading.
-
-
-
-
-
-Unfortunately for users who do not like the new design, Apple has not made any changes to the shading of tabs in either the Safari 15.1 beta or the latest version of the experimental Safari Technology Preview browser. 
-
-
-
-Fortunately however, developer Zhenyi Tan was inspired by John Gruber's Daring Fireball article about the issue and has since come up with a simple Safari extension called ActiveTab that provides a solution.
-
-
-
-ActiveTab simply makes it easier to spot the active tab in Safari on Mac by drawing a line underneath it. There are eight colors to choose from, and the line below the tab can be customized to be between 1 and 7 pixels wide. 
-
-
-
-
-
-As Zhenyi notes, the extension works best with the "Separate" tab layout selected and "Show color in tab bar" disabled in the Tab section of Safari's Preferences. Zhenyi also cautions that ActiveTab will not work reliably if you have so many tabs in a window that the tab bar becomes scrollable.
-
-
-
-ActiveTab is available for $1.99 on the Mac App Store, with no in-app purchases, no ads, and no tracking.
-
-
-
-(H/T MacStories.)
-Tag: Safari
-This article, "Safari 15 Extension for Mac Helps You Tell Which Tab Is Active" first appeared on MacRumors.com
-Discuss this article in our forums]]></summary>
-        <author>
-            <name>Tim Hardwick</name>
         </author>
     </entry>
 </feed>
