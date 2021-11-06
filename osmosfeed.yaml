@@ -1,4 +1,4 @@
-cacheUrl: https://davegonzalez.github.io/feed/cache.json
+cacheUrl: https://uvacoder.github.io/dave-feed-update-homepage/cache.json
 sources:
  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
  - href: http://feeds.macrumors.com/MacRumors-Front
